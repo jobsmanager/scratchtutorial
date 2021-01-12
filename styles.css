@@ -70,3 +70,6 @@ ol {
   width: 600px;
   margin: 0 auto;
 }
+.synopsis em {
+  font-style: normal;
+}
