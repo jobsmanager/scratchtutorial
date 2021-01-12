@@ -40,12 +40,7 @@ ol {
   }
 }
 
-/* Desktop Styles */
-@media only screen and (min-width: 961px) {
-  body {
-    background-color: #B2D6FF; /* Blue */
-  }
-}
+
 h1, p {
 background-color:#DDE0E3;    /* Light gray */
 }
