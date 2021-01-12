@@ -11,11 +11,14 @@
 }
 
 .content {
+  float: left;
+  width: 650px;
   height: 500px;
   background-color: #F5CF8E;    /* Yellow */
 }
 
 .footer {
+  clear: both;
   height: 200px;
   background-color: #D6E9FE;    /* Light blue */
 }
