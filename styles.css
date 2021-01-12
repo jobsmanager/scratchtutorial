@@ -50,7 +50,10 @@ ol {
   color: #7E8184;        /* Light gray */
   font-style: italic;
 }
-.button {
+.button:link,
+.button:visited{
+display: block;
+	text-decoration: none;
   color: #FFF;
   background-color: #5995DA;    /* Blue */
   font-weight: bold;
@@ -61,6 +64,11 @@ ol {
 
   width: 200px;
   margin: 20px auto;
+}
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #76AEED;  /* Light blue */
 }
 .call-to-action {
   font-style: italic;
