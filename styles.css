@@ -15,11 +15,7 @@ ul {
 ol {
   list-style-type: lower-roman;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
