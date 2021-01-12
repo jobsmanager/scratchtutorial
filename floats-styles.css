@@ -38,3 +38,7 @@
   height: 160px;
   background-color: #B2D6FF;    /* Medium blue */
 }
+.footer {
+  overflow: hidden;
+  background-color: #D6E9FE;
+}
